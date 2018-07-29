@@ -1,0 +1,11 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "A basic timer class, that can be used in conjunction with setInterval to return time values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha $(find tests -name '*.js')"
+  },
+  "author": "Richard Read",
+  "license": "ISC"
+}
